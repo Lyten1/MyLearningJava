@@ -5,7 +5,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Random;
 
-public class PrisonSimalation {
+public class PrisonSimulation {
 
     public static class Prisoner{
         int number;
